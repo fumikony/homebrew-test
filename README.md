@@ -1,4 +1,8 @@
 homebrew-test
 =============
 
-try to use brew tap
+trying to use brew tap
+
+brew tapで使うためにはリポジトリ名がhomebrew-hogeの形式である必要が有るようだ
+
+`brew tap fumikony/test`
